@@ -6,5 +6,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Central South University.
 - 📚 I’m currently learning Multimodal Large Language Model(MLLM).
 - 👯 I’m looking for a software development internship.
-- 📫 How to reach me: [Gmail](yuz87025@gmail.com)
+- 📫 How to reach me: yuz87025 [AT] gmail [DOT] com
 
